@@ -7,6 +7,7 @@ This quiz app was created to allow users to test their knowledge in a fun game
 
 ## Visit the Live Site Here
 
+https://jbernzweig.github.io/practice-quiz-app/
 
 ## Usage
 
