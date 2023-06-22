@@ -78,38 +78,42 @@ function clearStatusClass(element) {
 
 const questions = [
     {
-        question:'What is 2 + 2',
+        question:'Javascript is a programming language',
         answers: [
-            { text: '4', correct: true },
-            { text: '22', correct: false }
+            { text: 'True', correct: true },
+            { text: 'False', correct: false }
         ]
     },
     {
-        question:'What is 3 + 2',
+        question:'Coding Bootcamps are worth it',
         answers: [
-            { text: '5', correct: true },
-            { text: '22', correct: false }
+            { text: 'Absolutely Not', correct: true },
+            { text: 'Not really', correct: false },
+            { text: 'Definitely!', correct: false},
+            { text: 'Kinda', correct: false},
         ]
     },
     {
-        question:'What is 4 + 2',
+        question:'You can learn programming for free or at little expense',
         answers: [
-            { text: '6', correct: true },
-            { text: '22', correct: false }
+            { text: 'True', correct: true },
+            { text: 'False', correct: false }
         ]
     },
     {
-        question:'What is 5 + 2',
+        question:'Java is the same as Javascript',
         answers: [
-            { text: '7', correct: true },
-            { text: '22', correct: false }
+            { text: 'False', correct: true },
+            { text: 'True', correct: false }
         ]
     },
     {
-        question:'What is 6 + 2',
+        question:'Will I pass this class?',
         answers: [
-            { text: '8', correct: true },
-            { text: '22', correct: false }
+            { text: 'No Chance Buddy', correct: true },
+            { text: 'Very Unlikely', correct: true },
+            { text: 'You are screwed', correct: true },
+            { text: 'Should have dropped in January', correct: true }
         ]
     }
 ]
